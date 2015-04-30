@@ -37,7 +37,7 @@ function toc_sort_table(a) {
 		}
 	}
 	document.write('</tbody>');
-	document.write('</table><div style="text-align:right;"><a href="http://nazfra.blogspot.com" target="_blank" style="font:normal bold 10px/normal Arial,Sans-Serif;color:#666;text-shadow:0 1px 0 rgba(255,255,255,.2);" title="Nazfra SITEMAP SEO Tools">Nazfra SITEMAP SEO Tools/a></div>');
+	document.write('</table><div style="text-align:right;"><a href="http://nazfra.blogspot.com" target="_blank" style="font:normal bold 10px/normal Arial,Sans-Serif;color:#666;text-shadow:0 1px 0 rgba(255,255,255,.2);" title="Nazfra SITEMAP SEO Tools">Nazfra SITEMAP SEO Tools</a></div>');
 }
 
 function getTextValue(a) {
