@@ -15,7 +15,7 @@ function toc_sort_table(a) {
 			}
 		}
 	}
-	document.write('<select id="tocSort" onchange="displayMessage(this.options[this.selectedIndex].value);"><option value="0">' + theOptions + '</option><option value="0">' + theSortPosts + '</option><option value="1">' + theSortLabels + '</option></select>');
+	document.write('<select id="tocSort" onchange="displayMessage(this.options[this.selectedIndex].value);"><option value="0">' + theOptions + '</option><option value="0">' + theSortLabels + '</option><option value="1">' + theSortPosts + '</option></select>');
 	document.write('<table border="1" id="tocTable"><thead><tr><th id="th-1">' + theTitles + '</th><th id="th-2">' + theLabels + '<th id="th-3">' + theDates + '</th>');
 	document.write('</tr></thead>');
 	document.write('<tbody id="toc-903298438493857447451">'); // Unique ID doh...
